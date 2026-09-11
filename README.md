@@ -3,11 +3,7 @@
 ### Full-Stack Developer · Backend · APIs · AI · Security
 
 I'm a **Full-Stack Developer** passionate about building reliable applications, secure APIs, and practical solutions using modern technologies.
-
-I enjoy learning by building projects and exploring the intersection between **software development, cybersecurity, AI, and systems**.
-
 ---
-
 ## 🚀 What I'm currently working on
 
 🔹 **Backend development** with Java, Spring Boot, Node.js & Express
@@ -50,9 +46,3 @@ I enjoy learning by building projects and exploring the intersection between **s
 `Git` `GitHub` `Docker` `GitHub Actions` `Linux`
 
 ---
-
-### 💡 My approach
-
-> **Learn → Build → Break → Debug → Improve**
-
-I'm always open to learning, collaborating and building useful things. 🚀
